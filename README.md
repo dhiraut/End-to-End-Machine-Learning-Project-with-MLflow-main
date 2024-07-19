@@ -63,8 +63,8 @@ open up you local host and port
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/manish98450/End-to-End-Machine-Learning-Project-with-MLflow.mlflow \
-MLFLOW_TRACKING_USERNAME=manish98450 \
+MLFLOW_TRACKING_URI=https://dagshub.com/dhiraut/End-to-End-Machine-Learning-Project-with-MLflow.mlflow \
+MLFLOW_TRACKING_USERNAME=dhiraut \
 MLFLOW_TRACKING_PASSWORD=d956be277c2ae1793c2e41a2876ced29929e0eed \
 python script.py
 
